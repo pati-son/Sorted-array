@@ -1,0 +1,11 @@
+﻿  lb17.cpp
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(126,8): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(125): message : во время компиляции функции-члена класс шаблон "void MyArray<int>::erase(size_t)"
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(203): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MyArray<int>::erase(size_t)"
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(175): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyArray<int>"
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(86,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(84): message : во время компиляции функции-члена класс шаблон "void MyArray<int>::sorted_array(size_t)"
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(119): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MyArray<int>::sorted_array(size_t)"
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(37): message : во время компиляции функции-члена класс шаблон "MyArray<int>::MyArray(void)"
+C:\Users\User\source\repos\lb17\lb17\lb17.cpp(175): message : выполняется компиляция ссылки на экземпляр шаблон функции "MyArray<int>::MyArray(void)"
+  lb17.vcxproj -> C:\Users\User\source\repos\lb17\Debug\lb17.exe
